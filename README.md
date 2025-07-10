@@ -1,2 +1,3 @@
 # CaHRTennas
 Coffee and Ham Radio Antennas
+Here is where you will find information about our antennas; notes, build instructions and other info...
